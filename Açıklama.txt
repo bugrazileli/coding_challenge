@@ -1,0 +1,12 @@
+Merhabalar,
+
+Selin Hanım ve Gurur Hanıma da iletmiştim, yoğunluktan dolayı çok vaktim olmadı biraz gecikti kusura bakmayın.
+
+Kodu python dilinde ve koşullu ifade(if, switch) kullanımından kaçınarak yazdım.
+Herhangi bir durma koşulu koymadım, force quit yapılmalı.
+Board random oluşmaktadır.
+Test'i yalnızca bir sonraki beklenen board için yaptım. (Diğer bütün bileşenler hazırlık vb. olduğu için)
+Test için 3 örnek belirledim, dilerseniz içeriğini değiştirip test edebilirsiniz.
+Olabildiğince comment satırı eklemeye çalıştım.
+
+Saygılarımla Buğra Zileli
